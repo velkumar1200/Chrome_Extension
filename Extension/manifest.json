@@ -18,8 +18,8 @@
   "content_scripts": [
     {
      "matches": [
-        "https://datasiteone.merrillcorp.com/global/",
-        "https://stage-web.core.merrillcorp.com/global/"
+        "https://www.google.com",
+        "https://www.google.co.in"
       ],
 	  "js": [
         "js/jquery-3.3.1.js",
